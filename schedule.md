@@ -31,7 +31,7 @@
 |        | 03.28        |              |  **SPRING BREAK**                         |	         |    |            | 
 | 12     | 04.02        |    2.7,10    | 	Recommendation in Networks             |             |    |            | 
 |        | 04.04        |              |    Recommendation in Networks             |	         |    |            | 
-| 13     | 04.09        |  13.2, [Rendal](https://google.com), [Shi](https://google.com)| Learning to Rank  |	 |    |            | 
+| 13     | 04.09        |  13.2, [Rendal](https://google.com), [Shi](https://google.com)| Learning to Rank  |	 |    |   
 |        | 04.11        |              |  	Learning to Rank				   	   | 			 |	  |	           | 
 | 14     | 04.16        | [Dwork](),[Kamishima](),[Burke]()|  Fairness-Aware Recommendation  |   |    |            | 
 |        | 04.18        |              |        Fairness-Aware Recommendation      |	         |    |            | 
