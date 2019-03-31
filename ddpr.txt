@@ -1,0 +1,12 @@
+Title: Fashion, 2/21
+
+Name: Juan Vargas-Murillo
+
+1. Describe your experience (or lack thereof) with the recommendation domain being presented. How do you see recommendation as being useful in this domain?
+
+I have had some experience in the domain of fashion recommendation, in so far as, I worked with the Fashion MNIST dataset to classify unseen articles of clothing. This wasn's
+
+2. Consider one of the challenges that the team highlighted in their presentation. How might a developer address this challenge in implementing a system?
+
+3. Does the user profile data associated with this recommendation domain present any privacy issues? 
+In other words, might there be information that a recommender system of this type would collect that users might be sensitive about disclosing?

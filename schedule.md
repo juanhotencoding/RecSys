@@ -9,24 +9,24 @@
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:--:|:----------:|
 | 1      | 01.15        |              | Syllabus                                  |             |    |            |	
 |        | 01.17        | 1            |  Intro.                                   |             |    |            |	
-| 2      | 01.22        | 2.1-2.4      |     Collaborative Recommendation          | 		     |	  | 	       | 
+| 2      | 01.22        | 2.1-2.4      |     Collaborative Recommendation          | 		     |	  | [hmwk1](#) | 
 |        | 01.24        |              |     Collaborative Recommendation          | 		     |    |            |	
 | 3      | 01.29        |              |     **NO CLASS**                          |             |    |            | 
 |        | 01.31        | 	2.6        |     Regression Models                     |             |    |            |
 | 4      | 02.05        |   3.6-3.8    |     Matrix Factorization                  |             |    |            | 
 |        | 02.07        |              |     Matrix Factorization                  |             |    |            | 	
-| 5      | 02.12        |   4          |     Learning Factorization/ Content-Based Recommendation     |  	         |    |            | 
-|        | 02.14        |              |     Learning Factorization/ Content-Based Recommendation     |  	         |    |            | 
+| 5      | 02.12        |   4          |     Learning Factorization/ Content-Based Recommendation|  	         |    | [hmwk2](#  |
+|        | 02.14        |              |     Learning Factorization/ Content-Based Recommendation|  	         |    |            | 
 | 6      | 02.19        |              |     Domain Days                           | 	         |    |            | 
 |        | 02.21        |   		   |     Domain Days                           |	         |    |            | 
 | 7      | 02.26        |              |     Project Brainstorming                 | 	         |    |            | 
 |        | 02.28        |              |     Project Brainstorming                 |	         |    |            | 
-| 8      | 03.05        |    7         |     Evaluation                            | 	         |    |            | 
+| 8      | 03.05        |    7         |     Evaluation                            | 	         |    |  [hmwk3](#)          | 
 |        | 03.07        |              |     Evaluation                            | 	         |    |            | 
-| 9      | 03.12        |     5,6      |     Knowledge-Based and Hybrid Recommendation |         |    |            |  
-|        | 03.14        |              |     Knowledge-Based and Hybrid Recommendation |         |    |            | 
-| 10     | 03.19        |     8,9      |     Context-Aware Recommendation          |	         |    |            | 
-|        | 03.21        |              |     Context-Aware Recommendation          |	         |    |            | 
+| 9      | 03.12        |              |     Factorization (Conclusion)/ Content-Based Recommendation|         |    |            |  
+|        | 03.14        |      4       |     Factorization (Conclusion)/ Content-Based Recommendation|         |    |            | 
+| 10     | 03.19        |     6        |     Hybrid Recommendation and Context-Aware Recommendation|	         |    | [hmwk4](#) |
+|        | 03.21        |      8       |     Hybrid Recommendation and Context-Aware Recommendation|	         |    |            | 
 | 11     | 03.26        |              |  **SPRING BREAK**                         |	         |    |            | 
 |        | 03.28        |              |  **SPRING BREAK**                         |	         |    |            | 
 | 12     | 04.02        |    2.7,10    | 	Recommendation in Networks             |             |    |            | 
