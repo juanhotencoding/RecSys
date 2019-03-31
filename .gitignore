@@ -1,3 +1,4 @@
-/hwks/**/__pycache__
-/hwks/**/.*
+__pycache__
+.idea
+.ipynb_checkpoints
 
