@@ -15,7 +15,7 @@
 |        | 01.31        | 	2.6        |     Regression Models                     |             |    |            |
 | 4      | 02.05        |   3.6-3.8    |     Matrix Factorization                  |             |    |            | 
 |        | 02.07        |              |     Matrix Factorization                  |             |    |            | 	
-| 5      | 02.12        |   4          |     Learning Factorization/ Content-Based Recommendation|  	         |    | [hmwk2](#  |
+| 5      | 02.12        |   4          |     Learning Factorization/ Content-Based Recommendation|  	         |    | [hmwk2](#)  |
 |        | 02.14        |              |     Learning Factorization/ Content-Based Recommendation|  	         |    |            | 
 | 6      | 02.19        |              |     Domain Days                           | 	         |    |            | 
 |        | 02.21        |   		   |     Domain Days                           |	         |    |            | 
