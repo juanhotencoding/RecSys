@@ -71,7 +71,7 @@ class NaiveBayesRecommender(Recommender):
 
         # for each candidate
         for candidate in candidates:
-            print(f"Candidate {candidate}")
+            pass
             # Score the candidate for the user
 
             # Build list of candidate, score pairs
@@ -89,7 +89,7 @@ class NaiveBayesRecommender(Recommender):
     # Helper function to return a list of features for an item from features data frame
     def get_features_list(self, item):
         # print(f"Item to get features for {self._item_features}")
-        return [self._item_features[self._item_features['item' == item]]['feature'].values]
+        return [self._item_features[self._item_features['item'] == item]['feature'].values]
     
     # TODO: HOMEWORK 4
     def score_item(self, user, item):
